@@ -17,4 +17,4 @@ This will never be deployed
 
 ## How To Contribute
 
-No contributions are needed
+Contributions are always welcome!
