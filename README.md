@@ -8,6 +8,13 @@ This is an introduction example to show the different parts of git
 
 ## Purpose
 
+
+The purpose is learn how to use git in the work environment
+
 ## Deployment
 
+This will never be deployed
+
 ## How To Contribute
+
+No contributions are needed
