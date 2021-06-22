@@ -13,7 +13,7 @@ The purpose is learn how to use git in the work environment
 
 ## Deployment
 
-This will never be deployed
+Deployment possible
 
 ## How To Contribute
 
