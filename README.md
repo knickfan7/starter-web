@@ -17,7 +17,7 @@ Deployment possible
 
 ## How To Contribute
 
-Contributions are always welcome!
+Please fork this repository and issue pull request.
 
 ## Copyright
 
