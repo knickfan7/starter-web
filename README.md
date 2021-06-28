@@ -18,3 +18,7 @@ Deployment possible
 ## How To Contribute
 
 Contributions are always welcome!
+
+## Copyright
+
+2020 Git.training.
