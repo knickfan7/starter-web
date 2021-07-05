@@ -6,6 +6,8 @@ This is a simpe project to learn how to use Git Merge and Diff Tools
 
 This is an introduction example to show the different parts of git
 Adding line for rebasing example.
+
+Additional changes from myfeature branch has been added.
 ## Purpose
 
 
