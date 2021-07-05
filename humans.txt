@@ -3,11 +3,11 @@
 
 # TEAM
 
-    Perosn A A.training
+    Person A A.training
 
 # THANKS
 
-    <name>
+    sThanks for the class.
 
 # TECHNOLOGY COLOPHON
 
